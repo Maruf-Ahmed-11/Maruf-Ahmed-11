@@ -128,6 +128,10 @@ I'm currently focused on strengthening my development skills through building re
 
 <br/>
 
+### ✍️ Random Quote
+
+![Quote](quotes.svg)
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%"/>
 </div>
