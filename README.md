@@ -1,60 +1,104 @@
-<h1 align="center">Hi 👋, I'm Maruf Ahmed</h1>
-<h3 align="center">Full-Stack Web Developer from Bangladesh 🇧🇩</h3>
+<!-- Cyberpunk Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=2&fontColor=00FFFF&height=200&section=header&text=Maruf%20Ahmed&fontSize=60&desc=Aspiring%20Full-Stack%20Developer&descAlignY=72&descAlign=60&stroke=FF00FF" width="100%" alt="Cyberpunk Banner"/>
+</div>
 
-<p align="center">
-  Passionate about building responsive, user-centric web applications and delivering clean code. Currently specializing in the MERN stack and Next.js.
-</p>
+<!-- Social Links -->
+<div align="center">
+  <a href="[YOUR_LINKEDIN_URL]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFFF&border=FF00FF" alt="LinkedIn" />
+  </a>
+  <a href="[YOUR_PORTFOLIO_URL]" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=FF00FF&border=00FFFF" alt="Portfolio" />
+  </a>
+  <a href="mailto:maruf04ahmed12rohan04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FFFF&border=FF00FF" alt="Email" />
+  </a>
+</div>
 
 <br/>
+
+<!-- Dynamic Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=System.out.println('Hello+World');>_+MERN+Stack+Developer;>_+Merging+Marketing+%26+Code;>_+Building+the+Future" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <p>
+    <strong>Leveling up in the AI-Driven Full Stack Web Engineering bootcamp (Batch 14).</strong><br>
+    Combining a first-year foundation in marketing with hardcore technical web development skills to build dynamic, scalable applications.
+  </p>
+</div>
+
+---
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently advancing my skills through a comprehensive **full-stack web development bootcamp**, diving deep into **React.js, Next.js, and TypeScript**.
-- 🔭 I’m actively building modern, responsive applications (including API-driven platforms and fitness tracking apps) using **Tailwind CSS**.
-- 💼 I am open to **freelance opportunities** and collaborations utilizing the MERN stack.
-- 💬 Ask me about **Full-Stack Development (React, Next, Node, MongoDB)**.
-- 📫 How to reach me: **maruf04ahmed12rohan04@gmail.com**
+- 🚀 **Mission:** Transitioning into full-stack web development and software engineering.
+- 🏗️ **Current Build:** Exploring scalable architectures and modern web technologies.
+- 🎓 **Academic:** 1st-year Marketing undergraduate at National University.
+- 🌍 **Location:** Khulna, Bangladesh.
 
-<br/>
+---
 
-### 🌐 Connect with me:
-<!-- Replace the '#' below with your actual LinkedIn and Portfolio URLs -->
-<p align="left">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-<br/>
-
-### 🛠️ Languages and Tools:
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-</p>
-
-<br/>
-
-### 📊 GitHub Stats:
+### 🛠️ Cyber Deck (Tech Stack)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maruf-ahmed-11&show_icons=true&locale=en&theme=radical" alt="maruf-ahmed-11 stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf-ahmed-11&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maruf-ahmed-11&theme=radical" alt="GitHub Streak" />
+  <!-- Modern, sleek icon grid -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mongodb,mysql,firebase,git,vscode&theme=dark&perline=7" alt="Tech Stack Icons" />
+  </a>
+</div>
+
+---
+
+### 📂 Live Project Mainframe
+
+<div align="center">
+  <a href="https://github.com/[YOUR_GITHUB_USERNAME]/[YOUR_BAZAR_DOR_REPO_NAME]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[YOUR_BAZAR_DOR_REPO_NAME]&bg_color=0A0A0A&title_color=00FFFF&text_color=E0E0E0&icon_color=FF00FF&border_color=FF00FF" alt="Bazar Dor Repo"/>
+  </a>
+  <a href="https://github.com/[YOUR_GITHUB_USERNAME]/[YOUR_FITLOG_REPO_NAME]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[YOUR_FITLOG_REPO_NAME]&bg_color=0A0A0A&title_color=00FFFF&text_color=E0E0E0&icon_color=FF00FF&border_color=FF00FF" alt="FitLog Repo"/>
+  </a>
+</div>
+
+---
+
+### 📊 System Diagnostics
+
+<div align="center">
+  <!-- 31-Day Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&bg_color=0A0A0A&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&bg_color=0A0A0A&title_color=00FFFF&text_color=E0E0E0&icon_color=FF00FF&border_color=FF00FF&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&bg_color=0A0A0A&title_color=00FFFF&text_color=E0E0E0&icon_color=FF00FF&border_color=FF00FF&hide_border=false" alt="Top Languages" />
+</div>
+
+---
+
+### 🐍 Contribution Grid Snake
+
+<div align="center">
+  <!-- This image will be generated by the GitHub Action -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<!-- Cyberpunk Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=FF00FF&height=100&section=footer&stroke=00FFFF" width="100%" alt="Footer Wave"/>
 </div>
