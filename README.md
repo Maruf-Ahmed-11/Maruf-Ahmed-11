@@ -51,14 +51,36 @@ I'm currently focused on strengthening my development skills through building re
 - 🤝 Open to learning, collaboration and new opportunitie
 ---
 
-### 🛠️ Cyber Deck (Tech Stack)
+### 🛠️ Tech Stack
 
-<div align="center">
-  <!-- Modern, sleek icon grid -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mongodb,figma,git,vscode&theme=dark&perline=7" alt="Tech Stack Icons" />
-  </a>
-</div>
+## 🛠️ Skills in Technologies
+**Languages:**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+
+**CSS Frameworks & Libraries:**
+
+<img src="https://skillicons.dev/icons?i=tailwind" />
+
+**JavaScript Frameworks & Libraries:**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
+
+**Database & Model:**
+
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+**Deployment Platform:**
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+
+**Design & Graphics:**
+
+<img src="https://skillicons.dev/icons?i=figma" />
+
+**Tools & Technologies:**
+
+<img src="https://skillicons.dev/icons?i=windows,notion,git,github,vscode" />
 
 ---
 
