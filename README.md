@@ -51,7 +51,6 @@ I'm currently focused on strengthening my development skills through building re
 - 🤝 Open to learning, collaboration and new opportunitie
 ---
 
-### 🛠️ Tech Stack
 
 ## 🛠️ Skills in Technologies
 **Languages:**
@@ -112,6 +111,9 @@ I'm currently focused on strengthening my development skills through building re
 </div>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maruf-Ahmed-11/Maruf-Ahmed-11/main/circle.svg" alt="Code. Build. Solve. Repeat." />
+</p>
 
 ### 🐍 Contribution Grid Snake
 
