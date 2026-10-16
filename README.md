@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/maruf-ahmed-rohan/?isSelfProfile=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFFF&border=FF00FF" alt="LinkedIn" />
   </a>
-  <a href="[YOUR_PORTFOLIO_URL]" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=FF00FF&border=00FFFF" alt="Portfolio" />
   </a>
   <a href="mailto:maruf04ahmed12rohan04@gmail.com">
@@ -60,10 +60,10 @@
 
 <div align="center">
   <a href="https://github.com/Maruf-Ahmed-11/A07-Bazar-Dor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[YOUR_BAZAR_DOR_REPO_NAME]&bg_color=0A0A0A&title_color=00FFFF&text_color=E0E0E0&icon_color=FF00FF&border_color=FF00FF" alt="Bazar Dor Repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maruf-Ahmed-11&repo=A07-Bazar-Dor&bg_color=0A0A0A&title_color=00FFFF&text_color=E0E0E0&icon_color=FF00FF&border_color=FF00FF" alt="Bazar Dor Repo"/>
   </a>
   <a href="https://github.com/Maruf-Ahmed-11/fitlog-app-a6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[YOUR_FITLOG_REPO_NAME]&bg_color=0A0A0A&title_color=00FFFF&text_color=E0E0E0&icon_color=FF00FF&border_color=FF00FF" alt="FitLog Repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maruf-Ahmed-11&repo=fitlog-app-a6&bg_color=0A0A0A&title_color=00FFFF&text_color=E0E0E0&icon_color=FF00FF&border_color=FF00FF" alt="FitLog Repo"/>
   </a>
 </div>
 
