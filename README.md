@@ -50,7 +50,7 @@
 <div align="center">
   <!-- Modern, sleek icon grid -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mongodb,mysql,firebase,git,vscode&theme=dark&perline=7" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mongodb,figma,git,vscode&theme=dark&perline=7" alt="Tech Stack Icons" />
   </a>
 </div>
 
