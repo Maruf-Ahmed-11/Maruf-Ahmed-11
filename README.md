@@ -72,8 +72,8 @@
 ### 📊 System Diagnostics
 
 <div align="center">
-  <!-- 31-Day Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maruf-Ahmed-11&bg_color=0A0A0A&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <!-- Cyberpunk Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maruf-Ahmed-11&theme=dark&background=0A0A0A&ring=FF00FF&fire=FF00FF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=E0E0E0&stroke=00FFFF&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
