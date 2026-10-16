@@ -36,13 +36,19 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👩‍💻 About Me
 
-- 🚀 **Mission:** Transitioning into full-stack web development and software engineering.
-- 🏗️ **Current Build:** Exploring scalable architectures and modern web technologies.
-- 🎓 **Academic:** 1st-year Marketing undergraduate at National University.
-- 🌍 **Location:** Bangladesh.
+I'm **𝙈𝙖𝙧𝙪𝙛 𝘼𝙝𝙢𝙚𝙙 𝙍𝙤𝙝𝙖𝙣**, a passionate aspiring **FULL Stack  Developer** who enjoys turning ideas into functional, scalable and user-friendly web applications.
 
+I'm currently focused on strengthening my development skills through building real-world projects and improving my problem-solving abilities.
+
+- 🌱 I'm currently learning **Full Stack Web Development**
+- ⚛️ Exploring **React.js** and primarily focusing on frontend development
+- 🚀 Exploring **Next.js**
+- 🛠️ Building real-world projects to improve my development skills
+- 💡 Interested in creating clean, responsive and user-friendly websites
+- 🎯 My goal is to become a professional **Full Stack Web Developer**
+- 🤝 Open to learning, collaboration and new opportunitie
 ---
 
 ### 🛠️ Cyber Deck (Tech Stack)
