@@ -1,6 +1,6 @@
 <!-- Cyberpunk Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=2&fontColor=00FFFF&height=200&section=header&text=Maruf%20Ahmed&fontSize=60&desc=Aspiring%20Full-Stack%20Developer&descAlignY=72&descAlign=60&stroke=FF00FF" width="100%" alt="Cyberpunk Banner"/>
+  <img src="./banner.svg" width="100%" alt="Cyberpunk Banner"/>
 </div>
 
 <!-- Social Links -->
