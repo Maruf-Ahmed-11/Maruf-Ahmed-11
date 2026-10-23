@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/maruf-ahmed-rohan/?isSelfProfile=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFFF&border=FF00FF" alt="LinkedIn" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://myportfolio-lime-seven-24.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=FF00FF&border=00FFFF" alt="Portfolio" />
   </a>
   <a href="mailto:maruf04ahmed12rohan04@gmail.com">
