@@ -5,14 +5,16 @@
 
 <!-- Social Links -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/maruf-ahmed-rohan/?isSelfProfile=true" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFFF&border=FF00FF" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/maruf-ahmed-rohan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://myportfolio-lime-seven-24.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=FF00FF&border=00FFFF" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF007F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:maruf04ahmed12rohan04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FFFF&border=FF00FF" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -21,7 +23,7 @@
 <!-- Dynamic Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=System.out.println('Hello+World');>_+MERN+Stack+Developer;>_+Merging+Marketing+%26+Code;>_+Building+the+Future" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=console.log('Hello+World!');>_+MERN+Stack+Developer;>_+Merging+Marketing+%26+Code;>_+Building+the+Future" alt="Typing SVG" />
   </a>
 </div>
 
@@ -36,9 +38,9 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
-I'm **𝙈𝙖𝙧𝙪𝙛 𝘼𝙝𝙢𝙚𝙙 𝙍𝙤𝙝𝙖𝙣**, a passionate aspiring **FULL Stack  Developer** who enjoys turning ideas into functional, scalable and user-friendly web applications.
+I'm **Maruf Ahmed Rohan**, a passionate aspiring **Full Stack Web Developer** who enjoys turning ideas into functional, scalable and user-friendly web applications.
 
 I'm currently focused on strengthening my development skills through building real-world projects and improving my problem-solving abilities.
 
@@ -48,11 +50,11 @@ I'm currently focused on strengthening my development skills through building re
 - 🛠️ Building real-world projects to improve my development skills
 - 💡 Interested in creating clean, responsive and user-friendly websites
 - 🎯 My goal is to become a professional **Full Stack Web Developer**
-- 🤝 Open to learning, collaboration and new opportunitie
+- 🤝 Open to learning, collaboration and new opportunities
+
 ---
 
-
-## 🛠️ Skills in Technologies
+## 🛠️ Tech Stack & Skills
 **Languages:**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
@@ -63,7 +65,7 @@ I'm currently focused on strengthening my development skills through building re
 
 **JavaScript Frameworks & Libraries:**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
 
 **Database & Model:**
 
@@ -87,10 +89,10 @@ I'm currently focused on strengthening my development skills through building re
 
 <div align="center">
   <a href="https://github.com/Maruf-Ahmed-11/A07-Bazar-Dor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maruf-Ahmed-11&repo=A07-Bazar-Dor&bg_color=0A0A0A&title_color=00FFFF&text_color=E0E0E0&icon_color=FF00FF&border_color=FF00FF" alt="Bazar Dor Repo"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Maruf-Ahmed-11&repo=A07-Bazar-Dor&bg_color=0A0A0A&title_color=00FFFF&text_color=E0E0E0&icon_color=FF00FF&border_color=FF00FF" alt="Bazar Dor Repo"/>
   </a>
   <a href="https://github.com/Maruf-Ahmed-11/fitlog-app-a6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maruf-Ahmed-11&repo=fitlog-app-a6&bg_color=0A0A0A&title_color=00FFFF&text_color=E0E0E0&icon_color=FF00FF&border_color=FF00FF" alt="FitLog Repo"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Maruf-Ahmed-11&repo=fitlog-app-a6&bg_color=0A0A0A&title_color=00FFFF&text_color=E0E0E0&icon_color=FF00FF&border_color=FF00FF" alt="FitLog Repo"/>
   </a>
 </div>
 
@@ -106,8 +108,8 @@ I'm currently focused on strengthening my development skills through building re
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maruf-Ahmed-11&show_icons=true&bg_color=0A0A0A&title_color=00FFFF&text_color=E0E0E0&icon_color=FF00FF&border_color=FF00FF&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maruf-Ahmed-11&layout=compact&bg_color=0A0A0A&title_color=00FFFF&text_color=E0E0E0&icon_color=FF00FF&border_color=FF00FF&hide_border=false" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Maruf-Ahmed-11&show_icons=true&bg_color=0A0A0A&title_color=00FFFF&text_color=E0E0E0&icon_color=FF00FF&border_color=FF00FF&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Maruf-Ahmed-11&layout=compact&bg_color=0A0A0A&title_color=00FFFF&text_color=E0E0E0&icon_color=FF00FF&border_color=FF00FF&hide_border=false" alt="Top Languages" />
 </div>
 
 ---
@@ -130,8 +132,10 @@ I'm currently focused on strengthening my development skills through building re
 
 ### ✍️ Random Quote
 
-![Quote](quotes.svg)
+<div align="center">
+  <img src="./quotes.svg" alt="Quote" />
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer" width="100%"/>
 </div>
